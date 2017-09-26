@@ -1,0 +1,17 @@
+{
+  "name": "promise-implementation",
+  "version": "1.0.0",
+  "description": "A simple implementation of ES6 Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mactavish",
+  "license": "MIT",
+  "dependencies": {
+    "asap": "^2.0.6"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  }
+}
